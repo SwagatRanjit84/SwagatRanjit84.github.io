@@ -28,14 +28,17 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                        Graduate Research Assistant at Georgia State University Atlanta, Georgia <span>August 2021-present</span>
+                        Software Developer at Simpli Private Limited  <span>November 2018 to present</span>
                         </h2>
                         <p>
-                        • Research for developing deep learning architectures and physics based evaluation metrics for Solar Magnetograms Super Resolution. Implemented and tested different Super Resolution techniques using SRCNN, Residual Nets.
-<br/>• Performed data labelling, data exploration, data cleaning, and hyper-parameter tuning to optimize the accuracy and loss for the
-super resolution procedure of the Helio-seismic and Magnetic Image (HMI) dataset.
-<br/>• Applied CNN based models for predicting flares present in ≥M1.0, where AlexNet gave 3% more True Skill Statistics than the ResNet.
-<br/>• Developed Solar Event Database to get association between Solar Flares, Coronal Mass Ejection, and Active Region of different sites.
+                        •Worked on the task management platform where all the activities of organization can be monitored and controlled by the platform itself using React JS.
+<br/>• Developed invoice uploader OCR mobile app where system can read the data from the image, and integrated with Xero Accounting software.
+<br/>• Worked on a task ranking project. Tasks ranking algorithm was trained based on their priority, assignee, start date, due date, and network weights were updated by changes of user feedback.
+<br/>• Experimented with deep learning architectures such as Convolutional Neural Network and Recurrent Neural Network in OCR and task ranking projects.
+<br/>• Worked on personality test profile project using all three scales HEXACO, AB5C, and     6FPQ scale. 
+<br/>• Used chart.js to show the dynamic insights of the personality profile based on individual and team. 
+
+
                         </p>
                       </div>
                     </div>
@@ -50,16 +53,11 @@ super resolution procedure of the Helio-seismic and Magnetic Image (HMI) dataset
                       </div>
                       <div className="timeline-label">
                         <h2>
-                         Research Assistant at Nepal Applied Mathematics and Informatics Institute for research (NAAMII)  <span>June 2020-July 2021</span>
+                        Computer Engineer at National Reconstruction Authority)  <span>April 2018 to July 2018 </span>
                         </h2>
                         <p>
-                        • Developed and implemented a deep learning model to perform semantic image segmentation of polys from endoscopy images embedding
-Criss-Cross Attention Mechanism with Resnet-34 and Transposed Convolution.<br/>
-• Analyzed and compared the performance with different ablation studies, UNets, ResNets, and DeepLab models. Recall score improved
-from 59% to 66%, using transposed convolution with an attention mechanism. Performed data preprocessing and hyper-parameter tuning.<br/>
-• Published a paper and presented the implementation of ensemble method on ResNet-34 and EfficientNet-B2 with data augmentation,
-CutMix regularizer, and Tversky loss at the “Medieval 2020 Medico automatic polyp segmentation challenge”, with increased 3% F1
-accuracy compared to ResNet-34 architecture.
+                        • Developed Management Information System of earthquake victims database and grant payment system using React JS and Python.<br/>
+• Worked on the National Reconstruction Authority website using wordpress.
                         </p>
                       </div>
                     </div>
@@ -74,14 +72,13 @@ accuracy compared to ResNet-34 architecture.
                       </div>
                       <div className="timeline-label">
                         <h2>
-                        Software Engineer / Machine Learning Engineer at Hamro Patro Inc.   <span>December 2017-December 2019</span>
+                        Software Developer at Open Learning Exchange Nepal <span>February 2018 to October 2018</span>
                         </h2>
                         <p>
-                        • Deployed a News Classification project using Multinomial Naive Bayes, resulting in 94% accuracy.<br/>
-• Accomplished 10% improvement on spam detection using Recurrent Neural Network over the old process.<br/>
-• Led a collaborative filtering based recommendation system project to send weekly updates to users; increased user activities in the
-Hamro Patro app by 30%.<br/>
-• Managed backend services for the Hamro Patro App and Website.
+                        • Developed e-learning software, named Epaath, where students are given a platform to choose their courses and take quizzes..<br/>
+• Checked the feasibility of the requirement from the content design team to stack well with Raspberry Pi.<br/>
+• LDeveloped an assessment system consisting of adaptive examination, marksheets showing the insights of marks of each student and providing them feedback based on their result by using React JS, chart.js and node JS
+<br/>
                         </p>
                       </div>
                     </div>

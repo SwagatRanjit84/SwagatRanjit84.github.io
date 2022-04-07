@@ -16,10 +16,7 @@ export default class About extends Component {
                     <div className="about-desc">
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
-                      <p>
-
-                        I am studying master of data science and analytics at Georgia State University. I love Big Data and AI.
-                      </p>
+                   
                       <p>
                       A passionate computer and technology fanatic, driven by the hunger to learn more in this arena. A web developer with research
 interest in new technologies. A self-motivated person with the ability to think through a problem. Proactive to learn new things in life

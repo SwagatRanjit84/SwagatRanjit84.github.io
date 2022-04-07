@@ -27,11 +27,12 @@ export default class Expertize extends Component {
                   </span>
               
               <div className="desc">
-                    <h3>Computer Vision </h3>
+                <h3>Application development </h3>
+                   
                     <p>
-                    Computer vision tasks include methods for acquiring, processing, analyzing and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, e.g. in the forms of decisions
+                    I have experience building applications using Javascript for frontend applications.
                     </p>
-                  </div>
+              </div>
               </div>
               </div>
 
@@ -42,9 +43,10 @@ export default class Expertize extends Component {
                     <i className="icon-phone3" />
                   </span>
                   <div className="desc">
-                    <h3>Application development </h3>
+                    <h3> Data Structures & Algorithms   </h3>
                     <p>
-                      I have experience building applications using Java for backend services
+                    Strong background in data structure and algorithms. Participated in many national hackthan competitions
+                   
                     </p>
                   </div>
                 </div>
@@ -61,9 +63,10 @@ export default class Expertize extends Component {
                     <i className="icon-phone3" />
                   </span>
                   <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
+                    <h3>Computer Vision</h3>
                     <p>
-                 Strong background in data structure and algorithms. Participated in many national hackthan competitions
+                    Computer vision tasks include methods for acquiring, processing, analyzing and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, e.g. in the forms of decisions
+                   
                     </p>
                   </div>
                 </div>
